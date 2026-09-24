@@ -8,3 +8,5 @@ The topics include:
 - HTML
 - CSS
 - JS
+
+MAIND 2026/28
