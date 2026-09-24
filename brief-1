@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </head>
+    <main>
+        <article>
+            <section>
+                <h1>title</h1>
+            </section>
+        </article>
+    </main>
+</html>
